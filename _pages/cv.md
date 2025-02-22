@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: 'Click <a href="/assets/pdf/cv.pdf">here</a> for a full copy of my CV.'
+description: 'Click <a href="https://thompsryann.github.io/assets/pdf/cv.pdf">here</a> for a full copy of my CV.'
 nav: true
 nav_order: 1
 ---
