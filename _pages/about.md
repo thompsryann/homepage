@@ -19,8 +19,6 @@ I am a first year PhD student at Te Herenga Waka - Victoria University of Wellin
 
 My research interests lie mainly in topological groupoids (in particular, ample groupoids) and their relationship with inverse semigroups, as well as their algebras. I am also interested in category theory, and am currently studying enriched/higher category theory. 
 
-<h3>CV</h3>
-
 
 
 
