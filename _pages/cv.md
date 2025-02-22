@@ -2,10 +2,11 @@
 layout: page
 permalink: /
 title: CV
-description: 'Click <a href="/assets/pdf/cv.pdf">here</a> for a full copy of my CV.'
+description:
 nav: true
 nav_order: 1
 ---
+Click <a href="/assets/pdf/cv.pdf">here</a> for a full copy of my CV.
 
 <h3> Education </h3>
 
