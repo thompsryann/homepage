@@ -10,7 +10,7 @@ nav_order: 1
 <h3> Education </h3>
 
 - BScHons Mathematics with First Class Honours - Victoria University Of Wellington (2022) <a href="assets/pdf/honoursthesis.pdf">(thesis)</a>.
-- MSc Mathematics - Victoria University of Wellington (2024) <a href="asserts/pdf/mscthesis">(thesis)</a> 
+- MSc Mathematics - Victoria University of Wellington (2024) <a href="assets/pdf/mscthesis">(thesis)</a> 
 
 <h3> Tutoring </h3>
 
