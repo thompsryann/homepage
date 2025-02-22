@@ -14,5 +14,8 @@ nav_order: 1
 
 <h3> Tutoring </h3>
 
-- MATH132 Intro to Mathematical Thinking 
+- MATH132 Intro to Mathematical Thinking (2021/22)
+- MATH151 Algebra (2024)
+- MATH161 Discrete Mathematics (2024)
+- MATH251 Linear Algebra (2024)
 
