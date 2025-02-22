@@ -1,0 +1,10 @@
+---
+layout: page
+permalink: /cv/
+title: CV
+description: Click <a href="">here</a> for a full copy of my CV. 
+nav: true
+nav_order: 6
+---
+
+
