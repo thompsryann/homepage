@@ -15,9 +15,9 @@ profile:
 
 I am a first year PhD student at Te Herenga Waka - Victoria University of Wellington in Aotearoa, working with <a href="https://people.wgtn.ac.nz/lisa.orloffclark">Prof. Lisa Orloff Clark</a> and <a href="https://beckyarmstrong.com.au/">Dr. Becky Armstrong</a>. 
 
-<h3> Research Interests </h3>
+<h3> Mathematical Interests </h3>
 
-My research interests lie mainly in topological groupoids (in particular, ample groupoids) and their relationship with inverse semigroups, as well as their algebras. I am also interested in category theory, and am currently studying enriched/higher category theory. 
+Étale and ample groupoids, inverse semigroups, Steinberg algebras, category theory, pointless topology.
 
 
 
