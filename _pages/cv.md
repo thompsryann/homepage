@@ -20,3 +20,9 @@ Click <a href="/assets/pdf/cv.pdf">here</a> for a full copy of my CV.
 - MATH161 Discrete Mathematics (2024) - Victoria University of Wellington
 - MATH251 Linear Algebra (2024) - Victoria University of Wellington
 
+<h3> Awards </h3>
+
+- Victoria University of Wellington - Tangiwai School Leaver Scholarship - 2018
+- Mensa NZ Tertiary Scholarship - 2018
+- Geoffrey A. Rowan Memorial Bursary - 2021
+- Victoria University Doctoral Scholarship (funded by Dr. Becky Armstrong's Marsden grant) - 2025
