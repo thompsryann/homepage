@@ -9,13 +9,10 @@ profile:
   image: vuw_photo_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 
 ---
 
-Write your biography here. Tell the world about yourself.
+I am a first year PhD student at Te Herenga Waka - Victoria University of Wellington in Aotearoa, working with <a href="https://people.wgtn.ac.nz/lisa.orloffclark">Prof. Lisa Orloff Clark</a> and <a href="https://beckyarmstrong.com.au/">Dr. Becky Armstrong</a>. 
 
 
