@@ -17,7 +17,7 @@ I am a first year PhD student at Te Herenga Waka - Victoria University of Wellin
 
 <h3> Mathematical Interests </h3>
 
-Étale and ample groupoids, inverse semigroups, C*-algebras, Steinberg algebras, category theory, pointless topology.
+Étale and ample groupoids, inverse semigroups, C*-algebras, Steinberg algebras, category theory, pointless topology!
 
 
 
