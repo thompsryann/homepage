@@ -83,6 +83,11 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
+blog_name: Notes & Stuff # blog_name will be displayed in your blog page
+blog_description: Sharing interesting things from math (and elsewhere).
+permalink: /blog/:year/:title/
+lsi: false # produce an index for related posts
+
 
 # Pagination
 pagination:
@@ -166,7 +171,6 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - _pages/repositories.md
-  - _pages/blog.md
   - _pages/publications.md
   - _pages/teaching.md
   - bin/
