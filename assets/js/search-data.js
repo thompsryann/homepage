@@ -7,21 +7,21 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/homepage/";
+      window.location.href = "/";
     },
   },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "post-groupoids-2",
       
@@ -31,7 +31,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/homepage/blog/2024/groupoids2/";
+          window.location.href = "/blog/2024/groupoids2/";
         
       },
     },{id: "post-groupoids",
@@ -42,7 +42,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/homepage/blog/2024/groupoids/";
+          window.location.href = "/blog/2024/groupoids/";
         
       },
     },{id: "news-a-simple-inline-announcement",
@@ -52,7 +52,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/homepage/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -60,47 +60,47 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/1_project/";
+              window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/2_project/";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/3_project/";
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/4_project/";
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/5_project/";
+              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/6_project/";
+              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/7_project/";
+              window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/8_project/";
+              window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/9_project/";
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -120,7 +120,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/homepage//feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
