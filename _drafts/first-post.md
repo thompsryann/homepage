@@ -7,9 +7,4 @@ description: Groupoids
 
 Testing math.
 
-$\delta$
-$$\delta$$
-
-$$\delta$$
-
-$$\mathcal{G}$$
+This is a blackboard Z $\mathbb{Z}$.
