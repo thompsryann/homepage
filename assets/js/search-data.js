@@ -34,6 +34,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/groupoids2/";
         
       },
+    },{id: "post-groupoids",
+      
+        title: "Groupoids",
+      
+      description: "Groupoids",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/groupoids/";
+        
+      },
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
