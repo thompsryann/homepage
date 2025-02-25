@@ -1,5 +1,9 @@
 window.MathJax = {
   tex: {
+    macros: {
+      Ss: "\\mathcal{S}"
+
+    }
     tags: "ams",
     inlineMath: [
       ["$", "$"],
