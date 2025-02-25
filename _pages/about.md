@@ -8,8 +8,8 @@ profile:
   align: right
   image: vuw_photo_cropped.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-  <p> Email: ryan.thompson@vuw.ac.nz </p>
+  more_info:
+    <p> Email: ryan.thompson@vuw.ac.nz </p>
 
 
 ---
