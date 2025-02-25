@@ -7,7 +7,9 @@ description: Groupoids
 
 Testing math.
 
-$delta$
-$$delta$$
+$\delta$
+$$\delta$$
 
-$$delta$$
+$$\delta$$
+
+$$\mathcal{G}$$
