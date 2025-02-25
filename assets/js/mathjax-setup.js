@@ -1,7 +1,7 @@
 window.MathJax = {
   tex: {
     macros: {
-      Ss: "\\mathcal{S}"
+      Ss: "{\\mathcal S}"
 
     }
     tags: "ams",
