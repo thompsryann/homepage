@@ -83,8 +83,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Notes & Stuff # blog_name will be displayed in your blog page
-blog_description: Sharing interesting things from math (and elsewhere).
+blog_name: My PhD Journey # blog_name will be displayed in your blog page
+blog_description: Sharing interesting things from math, research, and life.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
