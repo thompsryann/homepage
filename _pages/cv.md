@@ -11,7 +11,7 @@ Click <a href="/assets/pdf/cv.pdf">here</a> for a full copy of my CV.
 <h3> Education </h3>
 
 - BScHons Mathematics with First Class Honours - Victoria University Of Wellington (2022) <a href="/assets/pdf/honoursthesis.pdf">(thesis)</a>.
-- MSc Mathematics - Victoria University of Wellington (2024) <a href="/assets/pdf/mscthesis.pdf">(thesis)</a> 
+- MSc Mathematics - Victoria University of Wellington (2024) (under examination) 
 
 <h3> Tutoring </h3>
 
