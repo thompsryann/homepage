@@ -5,6 +5,13 @@ echo "Entry point script running"
 
 CONFIG_FILE=_config.yml
 
+install_bundle_if_needed() {
+    if ! bundle check >/dev/null 2>&1; then
+        echo "Installing missing gems"
+        bundle install --no-cache
+    fi
+}
+
 # Function to manage Gemfile.lock
 manage_gemfile_lock() {
     git config --global --add safe.directory '*'
@@ -21,6 +28,7 @@ manage_gemfile_lock() {
 
 start_jekyll() {
     manage_gemfile_lock
+    install_bundle_if_needed
     bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling &
 }
 

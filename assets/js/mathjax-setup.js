@@ -3,7 +3,7 @@ window.MathJax = {
     macros: {
       Ss: "{\\mathcal S}"
 
-    }
+    },
     tags: "ams",
     inlineMath: [
       ["$", "$"],

@@ -1,0 +1,15 @@
+{% assign related_posts = site.related_posts | slice: 0, site.related_blog_posts.max_related %}
+{% if related_posts.size > 0 %}
+  <section class="related-posts">
+    <h2>Related posts</h2>
+    <ul class="post-list">
+      {% for post in related_posts %}
+        <li>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p class="post-meta">{{ post.date | date: '%B %d, %Y' }}</p>
+          {% if post.description %}<p>{{ post.description }}</p>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}

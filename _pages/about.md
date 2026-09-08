@@ -6,17 +6,17 @@ subtitle:
 
 profile:
   align: right
-  image: vuw_photo_cropped.jpg
+  image: ryan_photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Email: ryan dot thompson at vuw dot ac dot nz </p>
 ---
 
-I am a second year PhD student at Te Herenga Waka - Victoria University of Wellington, being supervised by <a href="https://people.wgtn.ac.nz/lisa.orloffclark">Prof. Lisa Orloff Clark</a> and <a href="https://beckyarmstrong.com.au/">Dr. Becky Armstrong</a>. 
+I am a second year PhD student at <a href="https://www.wgtn.ac.nz/sms">Te Herenga Waka - Victoria University of Wellington</a>, being supervised by <a href="https://people.wgtn.ac.nz/lisa.orloffclark">Prof. Lisa Orloff Clark</a> and <a href="https://beckyarmstrong.com.au/">Dr. Becky Armstrong</a>. 
 
-<h3> Mathematical Interests </h3>
+My PhD research involves studying Deaconu&ndash;Renault systems on totally disconnected spaces via their associated ample groupoids, Steinberg algebras and other invariants. Click *<a href="{{ '/research/' | relative }}">here</a>* to read more!
 
-Topological groupoids, inverse semigroups, C*-algebras and Steinberg algebras, category theory, point-free topology.
+
 
 
 
