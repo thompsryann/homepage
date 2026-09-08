@@ -20,7 +20,7 @@ Click <a href="/assets/pdf/cv.pdf">here</a> for a full copy of my CV.
 - MATH161 Discrete Mathematics - Victoria University of Wellington (2024, 2025, 2026)
 - MATH251 Linear Algebra - Victoria University of Wellington (2024, 2025, 2026)
 - MATH261 Groups & Graphs - Victoria University of Wellington (2025)
-- MATh524 Coding & Cryptography - Victoria University of Wellington (2025)
+- MATH243 Coding & Cryptography - Victoria University of Wellington (2025)
 
 <h5> Awards </h5>
 
@@ -48,7 +48,7 @@ Click <a href="/assets/pdf/cv.pdf">here</a> for a full copy of my CV.
 
 <h5> Publications & Preprints </h5>
 
-B. Armstrong, L. O. Clark, R. Thompson, *Topologically free non-Hausdorff groupoids* (2026) *<a href="https://arxiv.org/pdf/2602.02926">arXiv</a>*
+L. O. Clark, R. Thompson, I. Tolich, *Topologically free non-Hausdorff groupoids* (2026) *<a href="https://arxiv.org/pdf/2602.02926">arXiv</a>*
 
 <h5> Mathematical Interests </h5>
 
